@@ -1,7 +1,8 @@
 ## ![header](https://capsule-render.vercel.app/api?type=rect&height=200&text=Computer%20Vision&fontAlign=50&stroke=00FF00&strokeWidth=3)
 
-<img src="https://img.shields.io/badge/Computer-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-I'm currently studing on CV ..
+
+💻 I'm currently studing on CV .. 💻
+</a>
 
 <p align="center">
 
