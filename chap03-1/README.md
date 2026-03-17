@@ -13,7 +13,7 @@
 
 ---------------------
 4. 과제4 출력결과와 메뉴얼
-https://github.com/user-attachments/assets/4d4f87c2-484f-4c65-88e1-f94b9a09cf14
+<img width="666" height="278" alt="스크린샷 2026-03-17 211037" src="https://github.com/user-attachments/assets/0fbbe206-59d6-4de9-9b1d-cef913076931" />
 <img width="1228" height="208" alt="스크린샷 2026-03-17 201908" src="https://github.com/user-attachments/assets/927c9262-ad0d-4c90-94ca-2118b70489e7" />
 
 ---------------------
