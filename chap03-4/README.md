@@ -11,15 +11,21 @@
 
 -----------------
 2. 과제2 결과
+<img width="469" height="345" alt="스크린샷 2026-03-26 135156" src="https://github.com/user-attachments/assets/5cb296f9-8e83-4d7a-91ca-0439f0b4900a" />
 
 -----------------
 3. 과제3 결과
+<img width="654" height="622" alt="스크린샷 2026-03-26 134709" src="https://github.com/user-attachments/assets/b867ec5f-2927-44f1-83a6-c162518c0146" />
 
 -----------------
 4. 과제4 결과
 
+https://github.com/user-attachments/assets/173e93f4-b168-49c4-bb53-420c4cb20341
+
 -----------------
 5. 과제5 결과
+
+https://github.com/user-attachments/assets/c72c20cf-ce5e-47b1-b270-45a69e4f21ef
 
 -----------------
 6. 과제6 결과
