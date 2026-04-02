@@ -26,6 +26,9 @@
 ------------
 ## 실습과제 2 출력결과
 
+https://github.com/user-attachments/assets/5b4060ac-a044-4f4f-bee1-a6745932fe1f
+
+
 
 ------------
 ## 실습과제 3 출력결과
@@ -33,3 +36,7 @@
 
 ------------
 ## 실습과제 4 출력결과
+
+
+https://github.com/user-attachments/assets/d0c70d7c-0b00-4700-86b1-5a11b7e1797c
+
