@@ -1,3 +1,4 @@
+## 컴퓨터비전 챕터03-5 과제
 ## 실습과제 1 출력결과
 <img width="592" height="151" alt="스크린샷 2026-03-30 190140" src="https://github.com/user-attachments/assets/e8714bdd-071d-4b17-a8a5-81f4b919ba38" />
 
