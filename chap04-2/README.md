@@ -14,14 +14,20 @@
     ------------
 ## 실습과제 2 출력결과
 
+https://github.com/user-attachments/assets/c4600d8d-ec6e-43d2-8765-41176bc6eb42
 
 ------------
 ## 실습과제 3 출력결과
 
+https://github.com/user-attachments/assets/af83bdbf-813a-479e-89af-37e602776c0a
 
 ------------
 ## 실습과제 4 출력결과
 
+https://github.com/user-attachments/assets/6a809ad7-3b9e-4e70-acfd-ea1ca24388f7
 
 ------------
 ## 실습과제 5 출력결과
+
+https://github.com/user-attachments/assets/2b594f7e-0fef-4169-a3a9-f26f6def96b5
+
