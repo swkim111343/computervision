@@ -4,7 +4,7 @@
 // 작성자 : 2001485 김선우
 // **********************************************
 // 소스코드 작성
-#include <opencv2/opencv.hpp>
+#include "opencv2/opencv.hpp"
 #include <iostream>
 using namespace cv;
 using namespace std;
