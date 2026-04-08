@@ -1,7 +1,11 @@
 ## 컴퓨터비전 챕터04-4 과제
 ## 실습과제 1 출력결과
 
-https://github.com/user-attachments/assets/d48b0cdb-626a-415f-88df-cb03ee624421
+
+Uploading 화면 녹화 중 2026-04-08 225412.mp4…
+
+
+
 
 ------------
 ## 실습과제 2 출력결과
