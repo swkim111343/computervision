@@ -4,35 +4,39 @@
 // 작성자 : 2001485 김선우
 // **********************************************
 // 소스코드 작성
-#include <opencv2/opencv.hpp> 
-#include <iostream> 
-using namespace cv; 
-using namespace std; 
-
+#include "opencv2/opencv.hpp"
+#include <iostream>
+using namespace cv;
+using namespace std;
 int main()
 {
-    string files[10] = { "0.png","1.png","2.png","3.png","4.png",
-                        "5.png","6.png","7.png","8.png","9.png" };   //숫자 이미지 파일 이름을 저장한 배열 (0~9)
-    Mat img[10];
+	Mat img1, img2, img3, img4, img5, img6, img7, img8, img9, img0;
+	img1 = imread("1.png");
+	img2 = imread("2.png");
+	img3 = imread("3.png");
+	img4 = imread("4.png");
+	img5 = imread("5.png");
+	img6 = imread("6.png");
+	img7 = imread("7.png");
+	img8 = imread("8.png");
+	img9 = imread("9.png");
+	img0 = imread("0.png");
 
-    for (int i = 0; i < 10; i++)
-    {
-        img[i] = imread(files[i]); 
-        if (img[i].empty())
-        {
-            cout << "이미지 로드 실패" << endl;
-            return -1;
-        }
-    }
-    namedWindow("timer", WINDOW_AUTOSIZE);      //timer 생성
-
-    while (true)    //초시계 반복문
-    {
-        for (int i = 0; i < 10; i++)
-        {
-            imshow("timer", img[i]); //이미지 출력
-            waitKey(1000); // 1000ms = 1초 대기 (숫자가 1초마다 변경)
-        }
-    }
-    return 0;
+	if (img1.empty() && img2.empty() && img3.empty()
+		&& img4.empty() && img5.empty() && img6.empty()
+		&& img7.empty() && img8.empty() && img9.empty() 
+		&& img0.empty()) {
+		cerr << "Image load failed! " << endl;
+		return -1;
+	}
+	
+	Mat img[10] = { img1, img2, img3, img4, img5, img6, img7, img8, img9, img0 };
+	
+	int i = 0;
+	while (true) {	//무한반복위해while문사용
+		imshow("image", img[i]);
+		waitKey(1000);
+		i = (i + 1) % 10;	
+	}
+	return 0;
 }
