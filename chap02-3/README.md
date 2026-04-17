@@ -5,13 +5,9 @@
 -----------------------
 2. 과제2 결과
 
-
-https://github.com/user-attachments/assets/d46686bc-37f8-4f19-9e68-9bb10380f70f
-
+https://github.com/user-attachments/assets/9f5e9497-21d2-4d6d-9ba9-5fb8e93cd2b5
 
 -----------------------
 3. 과제3 결과
 
-
 https://github.com/user-attachments/assets/9a543b97-14a1-419d-bac6-07551aedcd79
-
