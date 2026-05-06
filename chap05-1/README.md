@@ -1,5 +1,3 @@
-
-https://github.com/user-attachments/assets/0ee9e208-fc19-4829-93d1-0007e2da425d
 ## 컴퓨터비전 챕터05-1 과제
 ## 실습과제 1 출력결과
 
