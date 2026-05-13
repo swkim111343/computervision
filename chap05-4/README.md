@@ -1,4 +1,4 @@
-<img width="1034" height="785" alt="스크린샷 2026-05-13 211220" src="https://github.com/user-attachments/assets/3c45fd55-a0f7-470f-a3c5-024b8833ac2b" />## 컴퓨터비전 챕터05-4 과제
+## 컴퓨터비전 챕터05-4 과제
 ## 실습과제 1
 두 점 (Gmin, 0) (Gmax, 255) 를 지나는 직선의 방정식을 이용한다.
 
