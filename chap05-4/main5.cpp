@@ -62,7 +62,7 @@ Mat getGrayHistImage(const Mat& hist)
 int main()
 {
     // Lenna 영상 읽기
-    Mat src = imread("lenna.bmp", IMREAD_GRAYSCALE);
+    Mat src = imread("crayfish.jpg", IMREAD_GRAYSCALE);
 
     if (src.empty()) {
         cerr << "Image load failed!" << endl;
